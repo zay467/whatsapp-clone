@@ -1,3 +1,7 @@
+## App Info
+
+The message receive and send will be a little weird since there is no user authentication implemented. Please view frontend as view and inspect the code for the message effect. Backend is [here](https://github.com/zay467/whatsapp-clone-backend).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
